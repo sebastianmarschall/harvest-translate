@@ -1,19 +1,19 @@
 javascript:( function() {
     document.getElementById('profile_t_invoice').value = 'Rechnung';
     document.getElementById('profile_t_from').value = 'Von';
-    document.getElementById('profile_t_for').value = 'Für';
-    document.getElementById('profile_t_id').value = 'Rechnungs Nr.:';
+    document.getElementById('profile_t_for').value = 'An';
+    document.getElementById('profile_t_id').value = 'Rechnung Nr.:';
     document.getElementById('profile_t_po_number').value = '';
     document.getElementById('profile_t_issue_date').value = 'Von';
     document.getElementById('profile_t_due_date').value = 'Fällig bis';
     document.getElementById('profile_t_upon_receipt').value = 'bei Erhalt';
     document.getElementById('profile_t_tax').value = 'USt.';
     document.getElementById('profile_t_tax2').value = '';
-    document.getElementById('profile_t_discount').value = 'Skonto';
+    document.getElementById('profile_t_discount').value = '';
     document.getElementById('profile_t_subject').value = '';
     document.getElementById('profile_t_type').value = '';
-    document.getElementById('profile_t_description').value = 'Leistung';
-    document.getElementById('profile_t_quantity').value = 'Stunden';
+    document.getElementById('profile_t_description').value = 'Beschreibung';
+    document.getElementById('profile_t_quantity').value = 'Anzahl';
     document.getElementById('profile_t_unit_price').value = 'Stundensatz';
     document.getElementById('profile_t_amount').value = 'Betrag';
     document.getElementById('profile_t_subtotal').value = 'Summe exkl. USt.';
