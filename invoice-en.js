@@ -1,7 +1,7 @@
 javascript:( function() {
     document.getElementById('profile_t_invoice').value = 'Invoice';
     document.getElementById('profile_t_from').value = 'From';
-    document.getElementById('profile_t_for').value = 'For';
+    document.getElementById('profile_t_for').value = 'To';
     document.getElementById('profile_t_id').value = 'Invoice ID';
     document.getElementById('profile_t_po_number').value = 'PO Number';
     document.getElementById('profile_t_issue_date').value = 'Date';
