@@ -1,0 +1,22 @@
+javascript:( function() {
+    document.getElementById('profile_t_estimate').value = 'Estimate';
+    document.getElementById('profile_t_from').value = 'From';
+    document.getElementById('profile_t_for').value = 'To';
+    document.getElementById('profile_t_id').value = 'Estimate #';
+    document.getElementById('profile_t_po_number').value = '';
+    document.getElementById('profile_t_issue_date').value = 'Date';
+    document.getElementById('profile_t_tax').value = 'VAT';
+    document.getElementById('profile_t_tax2').value = 'VAT';
+    document.getElementById('profile_t_discount').value = '';
+    document.getElementById('profile_t_subject').value = 'Subject';
+    document.getElementById('profile_t_type').value = 'Item Type';
+    document.getElementById('profile_t_description').value = 'Description';
+    document.getElementById('profile_t_quantity').value = 'Quantity';
+    document.getElementById('profile_t_unit_price').value = 'Unit Price';
+    document.getElementById('profile_t_amount').value = 'Amount';
+    document.getElementById('profile_t_subtotal').value = 'Subtotal';
+    document.getElementById('profile_t_amount_due').value = 'Estimate Total';
+    document.getElementById('profile_t_notes').value = '';
+    document.getElementById('profile_t_page_numbers').value = '';
+    document.getElementById('profile_t_file_attachments').value = '';
+})();
