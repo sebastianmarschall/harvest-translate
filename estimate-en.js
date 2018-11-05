@@ -2,7 +2,7 @@ javascript:( function() {
     document.getElementById('profile_t_estimate').value = 'Estimate';
     document.getElementById('profile_t_from').value = 'From';
     document.getElementById('profile_t_for').value = 'To';
-    document.getElementById('profile_t_id').value = 'Estimate #';
+    document.getElementById('profile_t_id').value = 'Estimate No.';
     document.getElementById('profile_t_po_number').value = '';
     document.getElementById('profile_t_issue_date').value = 'Date';
     document.getElementById('profile_t_tax').value = 'VAT';
